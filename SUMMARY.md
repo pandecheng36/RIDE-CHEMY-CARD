@@ -2,13 +2,13 @@
 
 ## Attribute
 
-* [1⃣ INSECT](README.md)
-* [2⃣ VEHICLE](attribute/vehicle.md)
-* [3⃣ JOB](attribute/job.md)
-* [4⃣ ANIMAL](attribute/animal.md)
-* [5⃣ ARTIFACT](attribute/artifact.md)
-* [6⃣ PLANT](attribute/plant.md)
-* [7⃣ LEGEND](attribute/legend.md)
+* [1⃣ 1⃣ INSECT](README.md)
+* [2⃣ 2⃣ VEHICLE](attribute/vehicle.md)
+* [3⃣ 3⃣ JOB](attribute/job.md)
+* [4⃣ 4⃣ ANIMAL](attribute/animal.md)
+* [5⃣ 5⃣ ARTIFACT](attribute/artifact.md)
+* [6⃣ 6⃣ PLANT](attribute/plant.md)
+* [7⃣ 7⃣ LEGEND](attribute/legend.md)
 
 ## NUMBER
 
