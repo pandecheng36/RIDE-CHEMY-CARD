@@ -1,8 +1,6 @@
-# TCS-001
+# TCS ( 18 )
 
-
-
-<div>
+<div data-full-width="true">
 
 <figure><img src="https://rider-card.com/images/cardlist/card/TCS-001.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,7 +22,7 @@
 
 </div>
 
-<div>
+<div data-full-width="true">
 
 <figure><img src="https://rider-card.com/images/cardlist/card/TCS-006.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +44,7 @@
 
 </div>
 
-<div>
+<div data-full-width="true">
 
 <figure><img src="https://rider-card.com/images/cardlist/card/TCS-011.png" alt=""><figcaption></figcaption></figure>
 
@@ -68,7 +66,7 @@
 
 </div>
 
-<div>
+<div data-full-width="true">
 
 <figure><img src="https://rider-card.com/images/cardlist/card/TCS-016.png" alt=""><figcaption></figcaption></figure>
 

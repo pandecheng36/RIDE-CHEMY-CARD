@@ -2,7 +2,7 @@
 
 
 
-<div>
+<div data-full-width="true">
 
 <figure><img src="https://rider-card.com/images/cardlist/card/CD1-001.png" alt=""><figcaption></figcaption></figure>
 
