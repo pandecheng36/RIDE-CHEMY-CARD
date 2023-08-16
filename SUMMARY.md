@@ -12,9 +12,9 @@
 
 ## NUMBER
 
-* [RT0-001](number/rt0-001.md)
-* [RT1-001](number/rt1-001.md)
-* [TCS-001](number/tcs-001.md)
+* [RT0 ( 25 )](number/rt0.md)
+* [RT1 ( 88 )](number/rt1.md)
+* [TCS ( 18 )](number/tcs.md)
 
 ***
 
