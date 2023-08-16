@@ -19,6 +19,5 @@
 ***
 
 * [RIDE CHEMY CARD](ride-chemy-card.md)
-* [OFFICIAL WEBSITE](https://www.rider-card.com)
 * [FOLLOW MY X](https://x.com/pandecheng)
 * [FOLLOW MY BILIBILI](https://space.bilibili.com/39762870)
