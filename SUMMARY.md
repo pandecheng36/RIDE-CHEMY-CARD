@@ -11,6 +11,9 @@
 * [ARTIFACT](attribute/artifact.md)
 * [PLANT](attribute/plant.md)
 * [LEGEND RIDER ( L )](attribute/legend.md)
+* [10 ( EX )](attribute/10ex.md)
+* [P ( 7 )](attribute/p-7.md)
+* [LP ( 10 )](attribute/lp.md)
 
 ***
 
