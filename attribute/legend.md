@@ -1,9 +1,9 @@
 ---
 layout:
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -13,8 +13,6 @@ layout:
 ---
 
 # LEGEND RIDER ( L )
-
-
 
 <div data-full-width="true">
 
@@ -77,8 +75,6 @@ layout:
 <figure><img src="https://rider-card.com/images/cardlist/card/RT0-011.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
-
 
 <div data-full-width="true">
 

@@ -28,6 +28,8 @@
 ***
 
 * [RIDE CHEMY CARD](ride-chemy-card.md)
-* [QQ QUN](https://qm.qq.com/cgi-bin/qm/qr?k=u9PvUq3av0BM9j0PDxMRC7xHpHSL7XlA\&jump\_from=webapi\&authKey=ks4rCYZNBGny77FI/lWpLRnQ9CBvTM7eIz1yH1d9WHlYruD/fa8KekX9HN/+niRJ)
-* [FOLLOW MY X](https://x.com/pandecheng)
-* [FOLLOW MY BILIBILI](https://space.bilibili.com/39762870)
+* [OFFICIAL WEBSITE](https://www.rider-card.com)
+* [OTHER](other/README.md)
+  * [QQ GROUP](https://qm.qq.com/cgi-bin/qm/qr?k=u9PvUq3av0BM9j0PDxMRC7xHpHSL7XlA\&jump\_from=webapi\&authKey=ks4rCYZNBGny77FI/lWpLRnQ9CBvTM7eIz1yH1d9WHlYruD/fa8KekX9HN/+niRJ)
+  * [FOLLOW MY X](https://x.com/pandecheng)
+  * [FOLLOW MY BILIBILI](https://space.bilibili.com/39762870)

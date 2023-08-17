@@ -1,9 +1,9 @@
 ---
 layout:
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -58,9 +58,7 @@ layout:
 
 </div>
 
-
-
-<div>
+<div data-full-width="true">
 
 <figure><img src="https://rider-card.com/images/cardlist/card/venommariner.png" alt=""><figcaption><p>venommariner</p></figcaption></figure>
 
