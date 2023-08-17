@@ -10,7 +10,7 @@
 * [ANIMAL](attribute/animal.md)
 * [ARTIFACT](attribute/artifact.md)
 * [PLANT](attribute/plant.md)
-* [LEGEND](attribute/legend.md)
+* [LEGEND RIDER ( L )](attribute/legend.md)
 
 ***
 
