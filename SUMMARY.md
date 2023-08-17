@@ -1,8 +1,10 @@
 # Table of contents
 
+* [LINKS](README.md)
+
 ## Attribute
 
-* [INSECT](README.md)
+* [INSECT](attribute/insect.md)
 * [VEHICLE](attribute/vehicle.md)
 * [JOB](attribute/job.md)
 * [ANIMAL](attribute/animal.md)
