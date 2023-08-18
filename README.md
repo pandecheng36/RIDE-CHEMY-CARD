@@ -14,7 +14,31 @@ layout:
 
 # LINKS
 
-<div data-full-width="true">
+{% content-ref url="attribute/insect.md" %}
+[insect.md](attribute/insect.md)
+{% endcontent-ref %}
+
+{% content-ref url="attribute/vehicle.md" %}
+[vehicle.md](attribute/vehicle.md)
+{% endcontent-ref %}
+
+{% content-ref url="attribute/job.md" %}
+[job.md](attribute/job.md)
+{% endcontent-ref %}
+
+{% content-ref url="attribute/animal.md" %}
+[animal.md](attribute/animal.md)
+{% endcontent-ref %}
+
+{% content-ref url="attribute/artifact.md" %}
+[artifact.md](attribute/artifact.md)
+{% endcontent-ref %}
+
+{% content-ref url="attribute/plant.md" %}
+[plant.md](attribute/plant.md)
+{% endcontent-ref %}
+
+<div data-full-width="false">
 
 <figure><img src="https://www.rider-card.com/images/common/pc/bg_footer.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -64,30 +88,30 @@ layout:
 
 <div>
 
-<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/tqQ/000000371985lwhyd1ClLzonhLxxeL5HkVPT6rXUZtfxFtqQ.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/tqQ/000000371985lwhyd1ClLzonhLxxeL5HkVPT6rXUZtfxFtqQ.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/Agw/000000371989NjoZxEQSEZCSiMCD1Flj1HAYWRSWiibsSAgw.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/Agw/000000371989NjoZxEQSEZCSiMCD1Flj1HAYWRSWiibsSAgw.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/dT6/0000003719936yOMyvOGsLR2xhY6FbkGuxwdOP2bJcKOWdT6.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/dT6/0000003719936yOMyvOGsLR2xhY6FbkGuxwdOP2bJcKOWdT6.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/LQV/000000371997JdCFCwTNSOx5ByMCQ729aXDZJcEZUGXsMLQV.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/LQV/000000371997JdCFCwTNSOx5ByMCQ729aXDZJcEZUGXsMLQV.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/1xX/000000372001WASN2Wc2qNwnCL6BqJEwAqKyYOQ4yjiXb1xX.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/1xX/000000372001WASN2Wc2qNwnCL6BqJEwAqKyYOQ4yjiXb1xX.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/ipr/000000372005CMssAtT9sEmdhipqxCACRJ1ihHcxEmkIJipr.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/ipr/000000372005CMssAtT9sEmdhipqxCACRJ1ihHcxEmkIJipr.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/DA1/000000372009WSBNBiFP2wwHqQNmWlRkAkCVGmoE1wCGeDA1.jpg" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://www.bandai.co.jp/candy/published/bnc_files/product/DA1/000000372009WSBNBiFP2wwHqQNmWlRkAkCVGmoE1wCGeDA1.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
