@@ -1,6 +1,7 @@
 # Table of contents
 
-* [LINKS](README.md)
+* [RIDE CHEMY CARD](README.md)
+* [LINKS](<README (1).md>)
 
 ## Attribute
 
@@ -30,8 +31,17 @@
 
 ***
 
-* [RIDE CHEMY CARD](ride-chemy-card.md)
-* [OFFICIAL WEBSITE](https://www.rider-card.com)
+* [CHEMY](chemy.md)
+
+## OFFICIAL WEBSITE
+
+* [RIDE CHEMY TRADING CARD](https://www.rider-card.com)
+* [CHEMY ZUKAN](https://www.kamen-rider-official.com/gotchard/chemy)
+* [KRWEB GOTCHARD](https://www.kamen-rider-official.com/gotchard)
+* [BANDAI RIDER](https://toy.bandai.co.jp/series/rider/)
+
+***
+
 * [OTHER](other/README.md)
   * [QQ GROUP](https://qm.qq.com/cgi-bin/qm/qr?k=u9PvUq3av0BM9j0PDxMRC7xHpHSL7XlA\&jump\_from=webapi\&authKey=ks4rCYZNBGny77FI/lWpLRnQ9CBvTM7eIz1yH1d9WHlYruD/fa8KekX9HN/+niRJ)
   * [FOLLOW MY X](https://x.com/pandecheng)
