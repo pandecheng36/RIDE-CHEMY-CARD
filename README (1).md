@@ -14,30 +14,6 @@ layout:
 
 # LINKS
 
-{% content-ref url="attribute/insect.md" %}
-[insect.md](attribute/insect.md)
-{% endcontent-ref %}
-
-{% content-ref url="attribute/vehicle.md" %}
-[vehicle.md](attribute/vehicle.md)
-{% endcontent-ref %}
-
-{% content-ref url="attribute/job.md" %}
-[job.md](attribute/job.md)
-{% endcontent-ref %}
-
-{% content-ref url="attribute/animal.md" %}
-[animal.md](attribute/animal.md)
-{% endcontent-ref %}
-
-{% content-ref url="attribute/artifact.md" %}
-[artifact.md](attribute/artifact.md)
-{% endcontent-ref %}
-
-{% content-ref url="attribute/plant.md" %}
-[plant.md](attribute/plant.md)
-{% endcontent-ref %}
-
 <div data-full-width="false">
 
 <figure><img src="https://www.rider-card.com/images/common/pc/bg_footer.jpg" alt=""><figcaption></figcaption></figure>
@@ -45,10 +21,6 @@ layout:
 </div>
 
 {% embed url="https://toy.bandai.co.jp/series/rider/gotchard" %}
-
-{% embed url="https://www.kamen-rider-official.com/gotchard" %}
-
-{% embed url="https://www.kamen-rider-official.com" %}
 
 {% embed url="https://www.tv-asahi.co.jp/gotchard" %}
 
