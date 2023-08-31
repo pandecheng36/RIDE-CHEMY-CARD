@@ -12,7 +12,6 @@
 * [ARTIFACT](attribute/artifact.md)
 * [PLANT](attribute/plant.md)
 * [LEGEND RIDER ( L )](attribute/legend.md)
-* [10 ( EX )](attribute/10ex.md)
 * [P ( 7 )](attribute/p-7.md)
 * [LP ( 10 )](attribute/lp.md)
 
@@ -38,7 +37,9 @@
 * [RIDE CHEMY TRADING CARD](https://www.rider-card.com)
 * [CHEMY ZUKAN](https://www.kamen-rider-official.com/gotchard/chemy)
 * [KRWEB GOTCHARD](https://www.kamen-rider-official.com/gotchard)
+* [TV ASAHI GOTCHARD](https://www.tv-asahi.co.jp/gotchard/)
 * [BANDAI RIDER](https://toy.bandai.co.jp/series/rider/)
+* [BANDAI RIDER](https://toy.bandai.co.jp/series/rider)
 
 ***
 
