@@ -86,7 +86,7 @@ layout:
 
  
 
-<figure><img src="https://rider-card.com/images/cardlist/card/RT0-010.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://www.rider-card.com/images/cardlist/card/PRM-007.png" alt=""><figcaption></figcaption></figure>
 
  
 
@@ -116,7 +116,7 @@ layout:
 
  
 
-<figure><img src="https://rider-card.com/images/cardlist/card/RT0-010.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://www.rider-card.com/images/cardlist/card/PRM-012.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

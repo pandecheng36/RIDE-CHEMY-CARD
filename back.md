@@ -112,14 +112,14 @@ layout:
 
  
 
-<figure><img src="https://www.rider-card.com/images/cardlist/card/blank.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://www.rider-card.com/images/cardlist/card/santa.png" alt="" width="563"><figcaption><p>santa</p></figcaption></figure>
 
  
 
-<figure><img src="https://www.rider-card.com/images/cardlist/card/blank.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://www.rider-card.com/images/cardlist/card/needlehawk.png" alt="" width="563"><figcaption><p>needlehawk</p></figcaption></figure>
 
  
 
-<figure><img src="https://www.rider-card.com/images/cardlist/card/blank.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://www.rider-card.com/images/cardlist/card/batkingrobo.png" alt="" width="563"><figcaption><p>batkingrobo</p></figcaption></figure>
 
 </div>
